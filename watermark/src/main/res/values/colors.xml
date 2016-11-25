@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <color name="grey">#5d5d5d</color>
+    <color name="grey_light">#9c9c9c</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="green">#1c9904</color>
+
+
+    <color name="app_primary">#1976D2</color>
+    <color name="app_primary_dark">#1565C0</color>
+    <color name="grey_high_light">#DDDDDD</color>
+    <color name="light_grey">#EEEEEE</color>
+    <color name="white_transparent">#99FFFFFF</color>
+
+
+    <color name="holo_green_light">#ffe940</color>
+    <color name="holo_purple">#40afff</color>
+    <color name="holo_red_light">#40ffb6</color>
+    <color name="progress_pie_text_color">#ff4340</color>
+
+
+
+
+    <color name="holo_orange_dark">#ff4340</color>
+
+
+
+</resources>
